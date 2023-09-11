@@ -5,7 +5,7 @@ import styled from "styled-components";
 import myImage from "../Resources/Images/Srinu-Bali.jpg";
 import backgroundImage from "../Resources/Images/background.webp";
 import handleclick from "./handleclick";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 import Aos from "aos";
 import "aos/dist/aos.css";
 const About = () => {
@@ -19,7 +19,7 @@ const About = () => {
         <div className="aboutBox">
           <div className="about_leftBox">
             <h1 id="user-detail-name">Hi, I'm Srinu Bali.</h1>
-            <Typical
+            {/* <Typical
               className="typical"
               loop={Infinity}
               steps={[
@@ -28,7 +28,7 @@ const About = () => {
                 "I Build Amazing Websites!",
                 500,
               ]}
-            />
+            /> */}
             <p>
               I’m a Frontend web developer skilled in reactJS .I love to
               learn new things and I am always open to learn new technologies.
