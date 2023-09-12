@@ -85,7 +85,7 @@ const ContactUs = () => {
                             <h1>LinkedIn</h1>
                             <p>Here is my LinkedIn Link</p>
                             <a id="contact-linkedin" href="https://www.linkedin.com/in/srinu-bali-69a698273/" rel="noreferrer" target="_blank">
-                                <p>https://www.linkedin.com/in/srinu-bali-69a698273/</p>
+                                <p>LinkdIn</p>
                             </a>
                         </div>
                         <div data-aos='fade-right'>
